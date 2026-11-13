@@ -1,0 +1,17 @@
+.div1{
+    background-color: blue;
+    height: 40px;
+    display: flow-root;
+}
+
+#title{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
